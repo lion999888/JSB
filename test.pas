@@ -1,3 +1,9 @@
+//2016-12-30 18:48 tiger 不好意思刚刚提交的没有填写备注
+
+
+//2016-12-30 18:47 tiger github测试修改!
+
+
 function ExecSql(db, sql: string; cds: TClientDataSet=nil; outxml: boolean=false; GetLID: boolean=false):string;
 
     function GetLastID(McDB: TMcDB): TRESULT;
